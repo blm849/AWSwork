@@ -1,0 +1,8 @@
+total 4840
+-rw-r--r--@ 1 berniemichalik  staff  2456483 27 Apr 16:07 How to build a database in Dynamo DB that you can talk to using AWS API Gateway and Lambda serverless functions.pdf
+-rw-r--r--  1 berniemichalik  staff     1072 27 Apr 12:00 LICENSE
+-rw-r--r--  1 berniemichalik  staff       53 27 Apr 12:00 README.md
+-rw-r--r--  1 berniemichalik  staff      499 27 Apr 16:08 addData.index.js
+-rw-r--r--  1 berniemichalik  staff      554 27 Apr 16:08 readAllData.index.js
+-rw-r--r--@ 1 berniemichalik  staff      293 27 Apr 15:58 test.py
+-rw-r--r--  1 berniemichalik  staff        0 27 Apr 16:09 test.txt
